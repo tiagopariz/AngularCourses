@@ -1,2 +1,0 @@
-# AngularCourses
-All angular courses
